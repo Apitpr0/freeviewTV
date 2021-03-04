@@ -117,3 +117,5 @@ http://5.135.92.133:52841/out/u/502_1.m3u8
 https://rtb-channel.glue.live/smil:rtb1/chunklist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Astro Vaanavil" tvg-logo="" group-title="Tamil" parent-code="tamil" tvg-shift="-24",Astro Vaanavil
 https://agsplayback01.astro.com.my/CH3/master_VAANGOSHOP5.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Naked Live" tvg-logo="" group-title="XXX" parent-code="xxx" tvg-shift="-24",Naked News
+http://content.jwplatform.com/manifests/Z9pDgB08.m3u8
